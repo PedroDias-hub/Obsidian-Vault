@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "de25c772d3f9ca9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ea25be30ca94879",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51c7f93e82443fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matemática/Cálculo I/Continuidade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Continuidade"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a16934d9a2fbef0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "84060dea313413cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5449abb93aa14d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "50aa66cb1ba81e6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "a3b934a5826b8ae0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.16668701171875
+  },
+  "right": {
+    "id": "c985d0e46cc6b2b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "27943c1b94cd4947",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b8c68fe7e5022ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CHAT_GPT_ObsidianVault/CPlusPlus_Obsidian_Vault/CPlusPlus_Obsidian_Vault/01 - Fundamentos/01 - Objetivos do C++.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "d25c5b9af31527a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CHAT_GPT_ObsidianVault/CPlusPlus_Obsidian_Vault/CPlusPlus_Obsidian_Vault/01 - Fundamentos/01 - Objetivos do C++.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "2f79612e938f312d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "64c5397c1f834a07",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "754bfab85f5dcb18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CHAT_GPT_ObsidianVault/CPlusPlus_Obsidian_Vault/CPlusPlus_Obsidian_Vault/01 - Fundamentos/01 - Objetivos do C++.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "51c7f93e82443fb0",
+  "lastOpenFiles": [
+    "Matemática/Cálculo I/Derivada.md",
+    "Matemática/Cálculo I/Limites.md",
+    "Matemática/Cálculo I/Integrais.md",
+    "Matemática/Cálculo I/Aplicações da Derivada.md",
+    "Matemática/Cálculo I/Teorema Fundamental do Cálculo.md",
+    "Matemática/Cálculo I/Tipos de Limites.md",
+    "Matemática/Cálculo I/Continuidade.md",
+    "Matemática/Cálculo I/Aplicações da Integral.md",
+    "Matemática/Cálculo I/Regras de Derivação.md",
+    "Matemática/Cálculo II/Regra da cadeia.md",
+    "Início.md",
+    "Matemática/Fórmulas/Limites - tabela.md",
+    "Matemática/Fórmulas/Derivadas - tabela.md",
+    "Matemática/Fórmulas/Álgebra Linear - tabela.md",
+    "Matemática/Fórmulas/Álgebra - tabela.md",
+    "Matemática/Cálculo I/Exercícios de Limites.md",
+    "Matemática/Cálculo 0/Funções - visão geral.md",
+    "Matemática/Cálculo 0/Funções exponenciais e logarítmicas.md",
+    "Matemática/Cálculo 0/Funções polinomiais.md",
+    "Matemática/Cálculo 0/Geometria analítica.md",
+    "Matemática/Cálculo 0/Logaritmos.md",
+    "Matemática/Cálculo 0/Potenciação e radiciação.md",
+    "Matemática/Cálculo 0/Pré-requisitos de Matemática.md",
+    "Faculdade/UNIP/Índice UNIP.md",
+    "Faculdade/UNIP/UNIP_CienciaDaComputacao_1Sem/Física para Computação/README.md",
+    "Faculdade/UNIP/UNIP_CienciaDaComputacao_1Sem/Interface Humano-Computador/README.md",
+    "Faculdade/UNIP/UNIP_CienciaDaComputacao_1Sem/Tópicos de Ambiente Web",
+    "Faculdade/UNIP/UNIP_CienciaDaComputacao_1Sem/Noções de Direito",
+    "Faculdade/UNIP/UNIP_CienciaDaComputacao_1Sem/Interpretação e Produção de Textos",
+    "Faculdade/UNIP/UNIP_CienciaDaComputacao_1Sem/Física para Computação",
+    "Faculdade/UNIP/UNIP_CienciaDaComputacao_1Sem/Tópicos de Matemática Aplicada",
+    "Faculdade/UNIP/UNIP_CienciaDaComputacao_1Sem/Design para Dispositivos Móveis",
+    "Faculdade/UNIP/UNIP_CienciaDaComputacao_1Sem/Interface Humano-Computador",
+    "Faculdade/UNIP/UNIP_CienciaDaComputacao_1Sem/Engenharia de Requisitos",
+    "Faculdade/UNIP/UNIP_CienciaDaComputacao_1Sem/Programação Web Responsiva",
+    "UNIP",
+    "Sem título.canvas"
+  ]
+}
